@@ -1,0 +1,13 @@
+mods_client.zip
+mods_client
+
+mc-server/world
+mc-server/mods
+mc-server/logs
+mc-server/crash-reports
+mc-server/versions
+mc-server/libraries
+mc-server/.fabric
+mc-server/*.jar
+
+pre-server

@@ -1,0 +1,21 @@
+
+
+volumes:
+  mc-server:
+
+services:
+  mc:
+    build: .
+    container_name: mc
+    restart: unless-stopped
+    ports:
+      - 25565:25565/tcp
+    tty: true
+    stdin_open: true
+    volumes:
+      - ./mc-server:/server
+    environment:
+      EULA: "true"
+      JVM_OPTS: "-Xmx3G -Xms1G"
+
+
