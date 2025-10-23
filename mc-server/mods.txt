@@ -4,3 +4,4 @@ https://cdn.modrinth.com/data/Heh3BbSv/versions/iM94i13D/gravestones-1.2.1+1.21.
 https://cdn.modrinth.com/data/gvQqBUqZ/versions/oGKQMdyZ/lithium-fabric-0.20.0+mc1.21.10.jar
 https://cdn.modrinth.com/data/ZLKQjA7t/versions/bTBAXqEQ/pneumonocore-1.2.0+1.21.9+B.jar
 https://cdn.modrinth.com/data/lfHFW1mp/versions/TYlVzBhI/journeymap-fabric-1.21.10-6.0.0-beta.52.jar
+https://cdn.modrinth.com/data/Rt1mrUHm/versions/Qi5eDlej/player-roles-1.7.0.jar
