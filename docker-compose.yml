@@ -17,8 +17,6 @@ services:
     environment:
       EULA: "true"
       JVM_OPTS: "-Xmx3G -Xms1G"
-    expose:
-      - "25565"
 
 networks:
   minecraft-net:
