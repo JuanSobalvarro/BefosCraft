@@ -17,6 +17,9 @@ services:
     environment:
       EULA: "true"
       JVM_OPTS: "-Xmx3G -Xms1G"
+    labels:
+      infrarust.enable: "true"
+      infrarust.domains: "befoscraft.juso-software.com"
 
 networks:
   minecraft-net:
